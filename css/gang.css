@@ -1,0 +1,24 @@
+#van-der-linde-gang {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+/* .gang-member-container {
+    display: block;
+} */
+
+.gangmembers {
+    width: 200px;
+}
+
+q {
+    font-style: italic;
+}
+
+/* 
+TODO:
+Float quote and paragraph to the right of the image
+
+*/

@@ -1,0 +1,21 @@
+#RDR-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.section-container {
+    max-width: fit-content;
+}
+
+.gamplay-container img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gameplay-images {
+    width: 500px;
+    border: 5px solid white;
+    margin: 10px;
+}
