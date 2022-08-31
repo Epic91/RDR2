@@ -5,19 +5,19 @@
     width: 60%;
 }
 
-.gangmembers {
-    width: 200px;
-}
-
 q {
     font-style: italic;
 }
 
 html body {
     background-color: rgb(46, 46, 46);
-    color: white;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+p, h5, q {
+    color: black;
+}
+
 
 /* 
 TODO:
